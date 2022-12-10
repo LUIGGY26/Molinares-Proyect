@@ -1,0 +1,74 @@
+
+1:12 p. m. 10/12/2022
+
+
+https://github.com/LUIGGY26/Molinares-Proyect.git
+
+
+
+
+CURSO BASICO DE GIT  &  GITHUB
+-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+Comandos Basicos 
+
+Para saber que version tienes, abre una terminal e introduce
+- git  --version
+
+Comandos  Basisos
+
+- git  add <File> = sirve para agregar archivos a tu portafolio
+
+- git init = 
+
+- git status = informa que cambios se ha realizado en tu archivo
+
+- git commit = darle comentario a tu archivo.
+
+- git push =
+
+- git pull =
+
+- git clone =
+
+- git log =  seguir un proyecto que se cambiado.
+
+- git checkout  --< nombre > =  regresa al archivo orginal, cuando este fuera cambiado ó modificado.
+
+- git diff = muestra las diferencias hechas en los archivos. 
+
+
+Configuar quien es el que realiza el archivo junto con su nombre
+- git config --global user.email " l.molipolo@gmail.com "
+- git config --global user.name " Luiggy26 "
+
+
+
+Github
+
+Crea un nuevo repositorio en la línea de comando
+
+- echo "# Molinares-Proyect" >> README.md 
+- git init 
+- git add README.md 
+- git commit -m "first commit" 
+- git branch -M main 
+- git remote add origin https://github.com/LUIGGY26/Molinares-Proyect. git
+- git push -u origen principal
+
+
+Inserte un repositorio existente desde la línea de comando
+- git remoto agregar origen https://github.com/LUIGGY26/Molinares-Proyect.git
+- git rama -M principal 
+- git push -u origen principal
+
+
+
+
+
+
+
+
+
+
+estaciondelaño
